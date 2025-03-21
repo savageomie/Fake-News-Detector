@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files (if they're large)
+*.pkl
+
+# Dataset (if large)
+# train.csv
+
+# Other
+.DS_Store
